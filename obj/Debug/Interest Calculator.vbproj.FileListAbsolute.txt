@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Interest Calculator\bin\Debug\Interest Calculator.exe.config
+C:\Users\DELL\source\repos\Interest Calculator\bin\Debug\Interest Calculator.exe
+C:\Users\DELL\source\repos\Interest Calculator\bin\Debug\Interest Calculator.pdb
+C:\Users\DELL\source\repos\Interest Calculator\bin\Debug\Interest Calculator.xml
+C:\Users\DELL\source\repos\Interest Calculator\obj\Debug\Interest Calculator.vbproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Interest Calculator\obj\Debug\Interest_Calculator.InterestCalculator.resources
+C:\Users\DELL\source\repos\Interest Calculator\obj\Debug\Interest_Calculator.Resources.resources
+C:\Users\DELL\source\repos\Interest Calculator\obj\Debug\Interest Calculator.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Interest Calculator\obj\Debug\Interest Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Interest Calculator\obj\Debug\Interest Calculator.exe
+C:\Users\DELL\source\repos\Interest Calculator\obj\Debug\Interest Calculator.xml
+C:\Users\DELL\source\repos\Interest Calculator\obj\Debug\Interest Calculator.pdb
+C:\Users\DELL\source\repos\Interest Calculator\bin\Debug\Interest Calculator.exe.manifest
+C:\Users\DELL\source\repos\Interest Calculator\bin\Debug\Interest Calculator.application
+C:\Users\DELL\source\repos\Interest Calculator\obj\Debug\Interest Calculator.exe.manifest
+C:\Users\DELL\source\repos\Interest Calculator\obj\Debug\Interest Calculator.application
